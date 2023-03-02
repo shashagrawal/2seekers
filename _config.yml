@@ -21,7 +21,9 @@
 title: Seeking Truth
 email: shash7.shashank@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thanks for visiting our website. Welcome and appreciate your feedback on our blogposts.
+  Hello & welcome to this website. We seek truth in all
+  aspects of life whether it is modern science, biology, engineering, physics or 
+  spiritual science.
 baseurl: "/2seekers/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shashag
