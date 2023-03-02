@@ -22,7 +22,7 @@ title: Seeking Truth
 email: shash7.shashank@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thanks for visiting our website. Welcome and appreciate your feedback on our blogposts.
-baseurl: "2seekers" # the subpath of your site, e.g. /blog
+baseurl: "/2seekers/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shashag
 github_username:  shashagrawal
@@ -31,16 +31,6 @@ github_username:  shashagrawal
 theme: minima
 plugins:
   - jekyll-feed
-
-defaults:
-  - 
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "shash"
-      author: "Shashank Agrawal"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,6 +4,7 @@ title:  "Opportunities with Yoga"
 date:   2023-03-02 14:28:49 +0530
 categories: jekyll chatgpt
 permalink: "opportunities-with-yoga"
+author: Shashank Agrawal
 ---
 
 ## Government Yoga Teacher
